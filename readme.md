@@ -23,6 +23,7 @@ Calculadora de presupuesto, agregar o eliminar Ingresos o Egresos, calcular el p
       <tr>
          <th>HTML 5</th>
          <th>CSS 3</th>
+         <th>JavaScript</th>
       </tr>
    </thead>
    <tbody>
